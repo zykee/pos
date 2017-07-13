@@ -1,4 +1,4 @@
-任务一://预计5分钟 实际10分钟
+任务一://预计5分钟 实际10分钟 但调试了好久
 匹配
   input:
     targetObject : [{barcode:string,name:string,unit:string,price:number}]
@@ -17,7 +17,7 @@
     goodIfoAll
   output:
     allMoney : number
- 任务四://预计5分钟
+任务四://预计5分钟
  差价
   input:
     goodIfo
